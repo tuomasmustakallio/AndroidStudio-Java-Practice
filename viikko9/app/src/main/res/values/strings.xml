@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">viikko9</string>
+
+    <string-array name="theaters">
+        <item>Helsinki</item>
+        <item>Espoo</item>
+        <item>Turku</item>
+        <item>Lahti</item>
+        <item>Lappeenranta</item>
+    </string-array>
+</resources>
