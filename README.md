@@ -1,1 +1,1 @@
-# Simple androidstudio apps made with object-oriented java programming.
+# Androidstudio apps made with object-oriented java programming.
